@@ -1,4 +1,4 @@
-# Project Ark (方舟計畫) 🚀
+# Project Ark (方舟) 🚀
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status: Planning](https://img.shields.io/badge/status-planning-green.svg)
